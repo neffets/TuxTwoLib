@@ -2,15 +2,15 @@ package Tux2.TuxTwoLib;
 
 import java.io.File;
 
-import net.minecraft.server.v1_12_R2.EntityPlayer;
-import net.minecraft.server.v1_12_R2.MinecraftServer;
-import net.minecraft.server.v1_12_R2.PlayerInteractManager;
-import net.minecraft.server.v1_12_R2.World;
+import net.minecraft.server.v1_13_R2.EntityPlayer;
+import net.minecraft.server.v1_13_R2.MinecraftServer;
+import net.minecraft.server.v1_13_R2.PlayerInteractManager;
+import net.minecraft.server.v1_13_R2.World;
 import com.mojang.authlib.GameProfile;
 
 import org.bukkit.Bukkit;
 import org.bukkit.OfflinePlayer;
-import org.bukkit.craftbukkit.v1_12_R2.CraftServer;
+import org.bukkit.craftbukkit.v1_13_R2.CraftServer;
 import org.bukkit.entity.Player;
 
 public class TuxTwoPlayer {

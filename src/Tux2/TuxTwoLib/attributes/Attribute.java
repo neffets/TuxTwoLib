@@ -1,6 +1,6 @@
 package Tux2.TuxTwoLib.attributes;
 
-import net.minecraft.server.v1_12_R2.NBTTagCompound;
+import net.minecraft.server.v1_13_R2.NBTTagCompound;
 
 import org.bukkit.inventory.ItemStack;
 
