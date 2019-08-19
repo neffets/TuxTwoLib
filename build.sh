@@ -19,4 +19,3 @@ wget -O BuildTools.jar https://hub.spigotmc.org/jenkins/job/BuildTools/lastSucce
 java -jar BuildTools.jar --rev "$VERSION"
 )
 
-
