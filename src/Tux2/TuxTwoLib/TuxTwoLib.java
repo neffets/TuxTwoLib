@@ -32,7 +32,7 @@ public class TuxTwoLib extends JavaPlugin {
 	public boolean updatesuccessful = false;
 	
 	String currentMCversion = "1.14.2";
-	String currentNMS = "v1_14_R2";
+	String currentNMS = "v1_14_R4";
 
     String versionName = null;
     private String versionLink = null;

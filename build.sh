@@ -16,7 +16,7 @@ mkdir -p ../spigot-build
 cd ../spigot-build
 # https://hub.spigotmc.org/jenkins/job/BuildTools
 wget -O BuildTools.jar https://hub.spigotmc.org/jenkins/job/BuildTools/lastSuccessfulBuild/artifact/target/BuildTools.jar
-java -jar BuildTools.jar "$VERSION"
+java -jar BuildTools.jar --rev "$VERSION"
 )
 
 
