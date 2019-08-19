@@ -17,10 +17,5 @@
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="/home/neffets/workspace/spigot-build/CraftBukkit/target/craftbukkit-1.14.4-R0.1-SNAPSHOT.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
