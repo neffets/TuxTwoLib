@@ -3,7 +3,7 @@
 if [ -z "$1" ];
 then
     echo "Usage: $0 Versionnumber"
-    echo "       ./mver 1.12.2-b8"
+    echo "       ./mver 1.13.2"
     exit 1
 fi
 
