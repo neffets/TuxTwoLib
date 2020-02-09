@@ -8,7 +8,7 @@ then
 fi
 
 VERSION="$1"
-APIVERSION=$(grep 1.14.4 version.txt |cut -d" " -f1)
+APIVERSION=$(grep ${VERSION} version.txt | head -1 | cut -d" " -f1)
 echo "Update mc $VERSION to cb $APIVERSION"
 bash make-version.sh "$VERSION" "$APIVERSION"
 

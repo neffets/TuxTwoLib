@@ -6,14 +6,14 @@
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry exported="true" kind="lib" path="/home/neffets/workspace/spigot-build/Spigot/Spigot-API/target/spigot-api-1.14.4-R0.1-SNAPSHOT-shaded.jar" sourcepath="/home/neffets/workspace/spigot-build/Spigot/Spigot-API/src">
+	<classpathentry exported="true" kind="lib" path="/workspace/spigot-build/Spigot/Spigot-API/target/spigot-api-1.14.4-R0.1-SNAPSHOT-shaded.jar" sourcepath="/workspace/spigot-build/Spigot/Spigot-API/src">
 		<attributes>
 			<attribute name="javadoc_location" value="https://hub.spigotmc.org/javadocs/spigot/"/>
 			<attribute name="module" value="true"/>
-			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="/home/neffets/workspace/spigot-build/Spigot/Spigot-API/src"/>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="/workspace/spigot-build/Spigot/Spigot-API/src"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry exported="true" kind="lib" path="/home/neffets/workspace/mincraft-libs/json-simple-1.1.1.jar">
+	<classpathentry exported="true" kind="lib" path="/workspace/mincraft-libs/json-simple-1.1.1.jar">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
