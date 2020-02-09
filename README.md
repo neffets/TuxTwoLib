@@ -61,6 +61,16 @@ Fortunately, if you use any plugins which utilize this library, you only need to
     * Do not forget to add "depend: [TuxTwoLib]" to your plugin.yml! (This makes sure that the library is loaded before your plugin)
 1. On your plugin's description make sure you tell users that they need to have this library installed on their server!
 
+### Building Plugin
+
+I recommend using eclipse.
+* build the spigot api with "bash build.sh 1.14.4"
+* add external jar to your project (from spigot-build/Spigot/Spigot-API/target the "shaded.jar")
+* use "json-simple-1.1.1.jar" from https://code.google.com/archive/p/json-simple/
+* "Build Project" in eclipse with ant-build (using the ./build.xml)
+
+'''ATTENTION:''' if you are using the docker-image "dlord/spigot" you have to clarify for building: java compatibilty with java 1.8 !!
+
 
 ## Links
 
