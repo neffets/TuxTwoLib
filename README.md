@@ -69,6 +69,13 @@ I recommend using eclipse.
 * use "json-simple-1.1.1.jar" from https://code.google.com/archive/p/json-simple/
 * "Build Project" in eclipse with ant-build (using the ./build.xml)
 
+e.g. for 1.16.5
+```bash
+bash build.sh 1.16.5
+bash make-version.sh 1.16.5 v1_16_R1
+ant -f build.xml
+```
+
 '''ATTENTION:''' if you are using the docker-image "dlord/spigot" you have to clarify for building: java compatibilty with java 1.8 !!
 
 

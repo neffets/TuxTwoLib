@@ -6,7 +6,7 @@
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry exported="true" kind="lib" path="/workspace/spigot-build/Spigot/Spigot-API/target/spigot-api-1.15.2-R0.1-SNAPSHOT-shaded.jar" sourcepath="/workspace/spigot-build/Spigot/Spigot-API/src">
+	<classpathentry exported="true" kind="lib" path="/workspace/spigot-build/Spigot/Spigot-API/target/spigot-api-1.16.5-R0.1-SNAPSHOT-shaded.jar" sourcepath="/workspace/spigot-build/Spigot/Spigot-API/src">
 		<attributes>
 			<attribute name="javadoc_location" value="https://hub.spigotmc.org/javadocs/spigot/"/>
 			<attribute name="module" value="true"/>
